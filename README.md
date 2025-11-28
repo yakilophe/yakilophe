@@ -1,16 +1,18 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=73&fontColor=#ffc9d2&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=true&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=133&section=header&reversal=false&fontSize=73&fontColor=#ffc9d2&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=true&theme=cobalt"  />
 </div>
 
 ###
 
-<h2 align="center">Hi! I'm Yakelin, an Intelligent Computing Engineering (ICI) student at UAA.</h2>
+<br clear="both">
+
+<h2 align="center">Hi! I'm Yakelin, an Intelligent Computing Engineering (ICI) student at UAA. 👋</h2>
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -38,21 +40,7 @@
 
 <br clear="both">
 
-<div align="right">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/yakelinherrada/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/yaki.zip/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img align="left" height="200" src="https://www.gifcen.com/wp-content/uploads/2024/04/kirby-gif-6.gif"  />
+<img align="left" height="187" src="https://i.gifer.com/origin/36/36b951b5410ef7e312548228ae1ab420.gif"  />
 
 ###
 
@@ -74,9 +62,21 @@
 
 ###
 
+<br clear="both">
+
+<h2 align="center">You can contact me at herrada.yakelin.norma@gmail.com and on this platform below.👇</h2>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yakilophe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yakilophe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://www.linkedin.com/in/yakelinherrada/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/yaki.zip/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
