@@ -1,0 +1,17 @@
+name: Update Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Ejecuta la acción una vez al día a medianoche
+  workflow_dispatch: # Permite ejecutar la acción manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yakumo-saki/pacman-contribution-graph@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          user_id: yakilophe # Tu nombre de usuario
+          output_branch_name: output # Debe coincidir con la URL de tu README
